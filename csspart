@@ -178,3 +178,59 @@ ul {
   
   
  
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Module2 Assignment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <h1>Our Menu</h1>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <section>
+            <h2 id="chicken">Chicken</h2>
+            <ul>
+                <li>chicken kebab</li>
+                <li>chicken biryani</li>
+                <li>fried chicken</li>
+                <li>Chicken chilli</li>
+                <li>chicken nuggets</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="col-lg-4 col-md-6 col-sm-12">
+        <section>
+            <h2 id="pork">Pork</h2>
+            <ul>
+                <li>Pork Cheek</li>
+                <li>Braised Pork </li>
+                <li>korean pork barbecue</li>
+                <li>Roasted Pork</li>
+                <li>Chinese-Style pork</li>
+                <li>Pork oif</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="col-lg-4 col-md-12 col-sm-12">
+        <section>
+            <h2 id="steak">Steak</h2>
+            <ul>
+                <li>Rib Eye Steaks</li>
+                <li>Flank Steak</li>
+                <li>Grilled  Steak </li>
+                <li>Porterhouse Steaks</li>
+                <li>Minute Steak Stacks </li>
+                <li>Grilled Sk</li>
+            </ul>
+        </section>
+    </div>
+    </body>
+</html> 
